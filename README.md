@@ -1,45 +1,85 @@
-# Karman Sandhanwalia — Data Science Portfolio
+# Karman Sandhanwalia
+### Data Science Student | Michigan Technological University
 
-A professional, responsive HTML/CSS portfolio hosted using GitHub Pages.
+Welcome to my personal data science portfolio! I'm pursuing a Bachelor of Science in Data Science at Michigan Technological University, with an expected graduation date of April 2029.
 
-**Live site:** https://karmansandhanwalia-art.github.io/data-science-portfolio/
+I'm interested in data science, artificial intelligence, cybersecurity, and software development. This portfolio showcases my technical skills, professional experience, and programming projects.
 
-## Repository structure
+## 🌐 Live Portfolio Website
 
-```text
-index.html                         Website entry point
-README.md                          Repository overview
-images/
-  headshot.jpg                     Professional portrait
-  desktop_preview.png             Desktop website screenshot
-  mobile_preview.png              Mobile website screenshot
-documents/
-  resume.pdf                       Downloadable original résumé (PDF)
-presentation/
-  PRESENTATION_GUIDE.txt          Presentation talking points
-projects/
-  README.md                        Project index and evidence status
-  poker-strategy/README.md        Poker overview and source link
-  spotify-analysis/README.md      Spotify project overview
-  crossy-road/README.md           Playable Crossy Road-style arcade game
-```
+**[View My Professional Portfolio](https://karmansandhanwalia-art.github.io/data-science-portfolio/)**
 
-## About this portfolio
+## 👨‍💻 About Me
 
-The website introduces my Michigan Tech Data Science education, skills, professional experience, selected projects, and contact information. The project graphics are **concept illustrations**, not actual screenshots or analytical results. The Poker project links to its public GitHub repository. Original source files for the other projects are not currently included and are not represented as included.
+I'm passionate about using technology and data to solve real-world problems. I enjoy programming, analyzing datasets, developing games, and exploring new technologies.
 
-## Deploying
+My goal is to gain practical experience through internships and continue building my skills in data science, analytics, and cybersecurity.
 
-Keep `index.html` at the root of the public repository. In **Settings → Pages**, select **Deploy from a branch**, `main`, `/ (root)`. All images and document paths are relative to the repository root.
+## 🛠️ Technical Skills
 
-## Before submitting
+- **Programming:** Python, Java, JavaScript, HTML, CSS
+- **Data Science:** Pandas, NumPy, Data Analysis, Data Visualization
+- **Development Tools:** Git, GitHub, Jupyter Notebook, VS Code
+- **Interests:** Artificial Intelligence, Machine Learning, Cybersecurity
 
-- Confirm the repo is Public and GitHub Pages is deployed.
-- Test the portrait, résumé download, project documentation, and contact links.
-- Add original project files/data/screenshots if they become available and you have permission to publish them.
-- Practice the presentation and follow the instructor's time limit.
+## 📂 Featured Projects
 
-### Interactive Crossword Puzzle
-A browser-based crossword game with clues, answer checking, and reset controls. Newly created as a portfolio addition.
+### 🎮 Crossy Road Game
+An interactive arcade-style game featuring player movement, moving vehicles, collision detection, and scoring.
 
-[Play the crossword](projects/crossword/index.html) · [Project README](projects/crossword/README.md)
+**Technologies:** HTML, CSS, JavaScript
+
+[Play Crossy Road](projects/crossy-road/index.html)
+
+### 🎵 Spotify Music Data Analysis
+A Python-based exploratory data analysis project examining music trends through data cleaning, statistical summaries, and visualizations.
+
+**Technologies:** Python, Pandas, Matplotlib
+
+[View Spotify Project](projects/spotify-analysis/README.md)
+
+*The reconstructed analysis uses synthetic sample data.*
+
+### 🧩 Interactive Crossword Puzzle
+A browser-based crossword puzzle featuring programming-related clues, interactive gameplay, answer checking, and reset controls.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Play Crossword](projects/crossword/index.html)
+
+### ♠️ Poker Strategy Game
+An educational programming project exploring poker gameplay, decision-making, and strategy.
+
+**Technologies:** Python
+
+[View Poker Project](projects/poker-strategy/README.md)
+
+## 🎓 Education
+
+**Michigan Technological University**
+
+Bachelor of Science in Data Science
+
+Expected Graduation: April 2029
+
+## 💼 Professional Development
+
+Through my academic coursework, programming projects, and professional experience, I've developed skills in problem-solving, analytical thinking, communication, and teamwork.
+
+I'm interested in internship opportunities involving data science, software development, analytics, and cybersecurity.
+
+## 📄 Résumé
+
+[Download My Résumé (PDF)](documents/resume.pdf)
+
+## 📬 Contact
+
+**Email:** [kssandha@mtu.edu](mailto:kssandha@mtu.edu)
+
+**GitHub:** [karmansandhanwalia-art](https://github.com/karmansandhanwalia-art)
+
+**Portfolio:** [Visit My Website](https://karmansandhanwalia-art.github.io/data-science-portfolio/)
+
+---
+
+*Thank you for visiting my portfolio!*      
