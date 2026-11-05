@@ -1,0 +1,10 @@
+PORTFOLIO PRESENTATION — 90-SECOND SAMPLE SCRIPT
+
+0:00–0:15 — Introduce yourself: Michigan Tech Data Science student, portfolio purpose.
+0:15–0:30 — Show the About Me, education, and skills sections.
+0:30–0:45 — Explain your experience at ORTELE Health, Neighborhood Dental Group, and Bandito’s.
+0:45–1:10 — Walk through the three project cards. Open the Poker GitHub source and the project documentation pages. Explain that Spotify and Crossy Road were created on other platforms and their original source files are not in this repository. Illustrations are conceptual, not authentic screenshots.
+1:10–1:20 — Demonstrate the résumé PDF download and LinkedIn/GitHub/email links.
+1:20–1:30 — Conclude with your data science interests and future goals.
+
+CHECKLIST: Public repo; GitHub Pages working; portrait loads; PDF opens; project documentation links work; rehearse to the actual assigned time limit.
